@@ -2,4 +2,4 @@
 
 The sorted.h script has contain four sorting algorithm,insertSort,quickSort,mergeSort,heapSort.
 
-The heap.h
+The heap.h defines a heap structure.
